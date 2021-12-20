@@ -12,4 +12,6 @@ Auto Pick & Ban Champions
 
 Supported OS(s);
 
-Windows x64, MacOS x64, Linux x64
+Windows x64
+
+Soon: MacOS x64
